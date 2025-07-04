@@ -1,4 +1,4 @@
-# Created a simple calculator of basic arithmetic operations using asp.net form design
+# Created a simple calculator of basic arithmetic operations using c# and asp.net form design
 
 Division: <br>
 ![Screenshot 2025-07-04 103620](https://github.com/user-attachments/assets/69113d1b-de22-42b2-92ce-63db0faaf064)
