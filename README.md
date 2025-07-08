@@ -1,4 +1,14 @@
-![Screenshot 2025-07-04 103620](https://github.com/user-attachments/assets/694ad65b-5366-4bc2-908a-a4a37cda4da0)
-![Screenshot 2025-07-04 103600](https://github.com/user-attachments/assets/fdb725e0-01d2-44e6-be4f-9246cb574e0d)
-![Screenshot 2025-07-04 103542](https://github.com/user-attachments/assets/ca168d25-88e8-4351-a103-7597dc241c76)
-![Screenshot 2025-07-04 103529](https://github.com/user-attachments/assets/64a648f4-f15a-4d87-919c-44fb52b6acc5)
+# SIMPLE ARITHMETIC CALCULATOR USING C#.NET FORMS
+
+
+ADDITION:
+![Screenshot 2025-07-04 103529](https://github.com/user-attachments/assets/aed5b2b0-6306-4b69-a519-ae469b85b671)
+
+SUBTRACTION:
+![Screenshot 2025-07-04 103542](https://github.com/user-attachments/assets/e996fc1f-370b-4003-bbf0-15da3ebd7648)
+
+MULTIPLICATION:
+![Screenshot 2025-07-04 103600](https://github.com/user-attachments/assets/c38d84c7-fdbe-437d-a2e5-43c3765898ab)
+
+DIVISION:
+![Screenshot 2025-07-04 103620](https://github.com/user-attachments/assets/6ab12286-12ce-4dbe-9950-bafbc4e3c464)
